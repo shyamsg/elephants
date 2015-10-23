@@ -29,9 +29,8 @@ Paper: Palkopoulou et al. Complete Genomes Reveal Signatures of Demographic and 
 Source:  
 Location:  
 Filename:  
-* One african elephant
-
-   sequenced and assembled by the broad institute. [Project link](https://www.broadinstitute.org/science/projects/mammals-models/elephant/elephant "Broad elephant sequencing project page") and [data link](http://www.broadinstitute.org/ftp/pub/assemblies/mammals/elephant/loxAfr3/ "Broad elephant ftp").  
+* One african elephant  
+Sequenced and assembled by the Broad Institute. [Project link](https://www.broadinstitute.org/science/projects/mammals-models/elephant/elephant "Broad elephant sequencing project page") and [data link](http://www.broadinstitute.org/ftp/pub/assemblies/mammals/elephant/loxAfr3/ "Broad elephant ftp").  
 Source: Broad [ftp](http://www.broadinstitute.org/ftp/pub/assemblies/mammals/elephant/loxAfr3/) for the African elephant genome.  
 Location:  
 Filename:  
@@ -50,4 +49,3 @@ Paper: Rohland, Nadin, et al. "Genomic DNA sequences from mastodon and woolly ma
 Source:   
 Location:  
 Filename:  
-
