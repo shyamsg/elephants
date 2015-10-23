@@ -26,8 +26,8 @@ Source: [Mapped data - not downloaded](http://gigadb.org/dataset/100095 "Bams"),
 Location: data/AsianElephants  
 Filenames:  
 * Two wrangel island woolly mammoths  
-Paper: Palkopoulou et al. Complete Genomes Reveal Signatures of Demographic and Genetic Declines in the Woolly Mammoth, Current Biology, Available online 23 April 2015, ISSN 0960-9822, http://dx.doi.org-10.1016-j.cub.2015.04.007.  
-Source:  
+Paper: [Palkopoulou et al. Complete Genomes Reveal Signatures of Demographic and Genetic Declines in the Woolly Mammoth, Current Biology, Available online 23 April 2015, ISSN 0960-9822, http://dx.doi.org-10.1016-j.cub.2015.04.007.](http://www.ncbi.nlm.nih.gov/pubmed/25913407)  
+Source: ENA [ftp](http://www.ebi.ac.uk/ena/data/view/ERP008929) site - only fastqs downloaded  
 Location:  
 Filename:  
 * One african elephant  
@@ -36,8 +36,8 @@ Source: Broad [ftp](http://www.broadinstitute.org/ftp/pub/assemblies/mammals/ele
 Location:  
 Filename:  
 * One columbian mammoth mitogenome and one mastodon genome.  
-Paper: Enk, Jacob, et al. "Complete Columbian mammoth mitogenome suggests interbreeding with woolly mammoths." Genome biology 12.5 (2011)- R51.  
-Source:  
+Paper: [Enk, Jacob, et al. "Complete Columbian mammoth mitogenome suggests interbreeding with woolly mammoths." Genome biology 12.5 (2011)- R51.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219973/)  
+Source: [NCBI SRA](http://www.ncbi.nlm.nih.gov/sra/SRX060096)
 Location:  
 Filename:  
 * Wolly mammoth nuclear genome  
