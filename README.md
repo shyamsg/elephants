@@ -20,6 +20,9 @@ their sources.
 * Two low coverage asian elephants
 Paper: Dastjerdi, Akbar, Christelle Robert, and Mick Watson. "Low coverage sequencing of two Asian elephant (Elephas maximus) genomes."
 GigaScience 3.1 (2014): 12.
+
 Location: data/AsianElephants
+
 Filenames:
+
 * Two wrangel island woolly mammoths
