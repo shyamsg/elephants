@@ -10,6 +10,7 @@ Like most of my projects, this project has the directory structure with 3 subdir
 * code
 
    All the code developed for this project is stored in files in this directory.
+
 * data
 
    This directory and subdirectories contain all the data used in this project. Due to the size of the data
@@ -20,8 +21,8 @@ published.
 The samples in this project are almost all from publicly available sources. Here, I list the samples and
 their sources.
 * Two low coverage asian elephants  
-Paper: Dastjerdi, Akbar, Christelle Robert, and Mick Watson. "Low coverage sequencing of two Asian elephant (Elephas maximus) genomes." GigaScience 3.1 (2014): 12.  
-Source:  
+Paper: [Dastjerdi, Akbar, Christelle Robert, and Mick Watson. "Low coverage sequencing of two Asian elephant (Elephas maximus) genomes." GigaScience 3.1 (2014): 12.](http://www.gigasciencejournal.com/content/3/1/12)  
+Source: [Mapped data - not downloaded](http://gigadb.org/dataset/100095 "Bams"), [Paired end sequence data](http://www.ebi.ac.uk/ena/data/view/ERP004241 "Fastqs")  
 Location: data/AsianElephants  
 Filenames:  
 * Two wrangel island woolly mammoths  
